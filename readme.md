@@ -8,3 +8,9 @@ NB: axios è la via :razzo:
 https://axios-http.com/docs/intro
 
 javascript
+
+// aggiungo un data
+
+        // url del api
+        
+      // ciclo di email
